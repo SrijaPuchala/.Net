@@ -1,2 +1,2 @@
 # .Net
-All my projects done in .net are under .Net Repository -> Different branches
+All my projects done in web development are under Web Develpment Repository -> Different branches
